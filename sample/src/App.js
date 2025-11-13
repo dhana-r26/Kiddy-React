@@ -17,8 +17,8 @@ function App() {
   const change=()=>setcount(count+1)
   return (
     <div className="App">
-      <h1>Count: {count}</h1>
-      <button onClick={change}>Increment</button>
+      {/* <h1>Count: {count}</h1>
+      <button onClick={change}>Increment</button> */}
       <BrowserRouter>
       <Greeting  test="Welcome to Kiddy"/>
       <Navbar/>
