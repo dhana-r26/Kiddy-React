@@ -1,0 +1,39 @@
+a{
+    font-size: small;
+    font-weight: bold;
+}
+
+.discount{
+   background-image: url('images/discount-badge.svg');
+   height:200px;
+   width:200px;
+}
+.discount h1{
+    position:relative;
+    top:50px;
+    left:60px;
+}
+.toy{
+    background-image:url('images/product-category-image-toys.webp');
+  background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.zoom:hover {
+  transform: scale(1.1); /*(150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.color{
+color:#fcb900;
+}
+.color:hover{
+color:#fcb900;
+}
+
+.widget{
+  background-image: url('images/news images/widget-background.webp');
+height:10px;
+  background-position: center;
+background-repeat: no-repeat;
+
+}

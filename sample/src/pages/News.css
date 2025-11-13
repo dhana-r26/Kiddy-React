@@ -1,0 +1,14 @@
+.aside{
+    background-color: #FFEBBE;
+     height:700px;
+}
+
+.bestsell{
+    height:80px !important; 
+    width:80px !important;
+}
+.widget{
+    background-image: url('../images/widget-background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

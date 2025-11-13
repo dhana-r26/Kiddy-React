@@ -1,0 +1,160 @@
+.subheaderlarge{
+ font-size: 80px
+}
+
+.subheadersmall{
+font-size: 30px
+}
+.subhead_content{
+    font-size: 15px
+}
+.offer{
+padding-top:100px
+}
+
+.imgbgdiscount{
+    background-color:#FFEBBE
+}
+.imgposition{
+    position:relative;
+    bottom:450px;
+    left:200px
+}
+.img2{
+background-color: #f3efff
+}
+.mail{
+    width:180px;
+    height:40px
+}
+
+.toysize{
+    height:450px; 
+    width:750px
+}
+.shoe{
+     background-color: #f3efff;
+      height: 215px;
+       width:500px
+}
+.minishoe{
+     width:140px; 
+     height:80px
+}
+.hat{
+    background-color:#FFEBBE; 
+    height: 215px; 
+    width:500px
+}
+.bgimg2{
+     padding-left: 100px
+}
+.miniimg1{
+    width:80px; height:100px
+}
+.smshoe{
+background-color: #f3efff
+}
+.smshoesize{
+width:80px; 
+height:80px;
+}
+.hat{
+background-color:#FFEBBE
+}
+.hatpadding{
+padding-left: 100px
+}
+.hatsize{
+    width:80px; height:80px
+}
+.smallshoe{
+background-color: #f3efff
+}
+.smshoesize{
+ width:80px; height:80px
+}
+.smallshoebg{
+    background-color:#FFEBBE
+}
+.smallshoepadding
+{
+padding-left:100px;
+}
+
+.smshoesz{
+    width:80px; height:80px
+}
+
+.logosize{
+    width:5rem;
+    height:5rem;
+    margin:10px
+}
+.cardsize{
+    width: 18rem
+}
+.circleimgs{
+    position: relative; 
+    right:50px
+}
+.circleimg1{
+     position:relative; 
+     left: 60px;
+     z-index:0;
+}
+.circleimgs{
+    position:relative;left: 40px;z-index:1;
+}
+
+.circleimg3{
+    position:relative;left: 20px; z-index:2;
+}
+.circleimg4{
+    position:relative; 
+    left: 0px;
+     z-index:3;
+}
+.hat-scarf{
+     background-color: #fdf7ea; width:300px;
+}
+.toy-game{
+background-color:#fdf3f5; width:300px;
+}
+.dress-suit{
+background-color:#ebf9ef; width:300px;
+}
+.blouse-tshirt{
+background-color:#e1f2f2; width:300px;
+}
+.shoe-socks{
+background-color:#f3efff; width:300px;
+}
+.yellowbg{
+    background-color: #FFEBBE;
+}
+.lgmail{
+width:255px;
+}
+.smmail{
+width:255px;
+}
+.form-submitbtn{
+    width:400px;
+}
+.toy{
+    background-image:url('../images/product-category-image-toys.webp');
+  background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.discount{
+   background-image: url('../images/discount-badge.svg');
+   height:200px;
+   width:200px;
+}
+.discount h1{
+    position:relative;
+    top:50px;
+    left:60px;
+}
